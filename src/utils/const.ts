@@ -120,7 +120,7 @@ export {
   ACTIVITY_TYPES,
 };
 
-const nike = 'rgb(13, 165, 165)'; // if you want change the main color change here src/styles/variables.scss
+const nike = 'rgb(224, 48, 16)'; // if you want change the main color change here src/styles/variables.scss
 const dark_vanilla = 'rgb(228,212,220)';
 
 // If your map has an offset please change this line
